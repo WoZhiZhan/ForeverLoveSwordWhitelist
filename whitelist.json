@@ -643,5 +643,10 @@
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
+   },
+   "56d42b3fce5f05c8895fcee55dc91947c0aafe63be4fd9eb437ae0571b5b9d17": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
    }
 }
