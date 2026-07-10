@@ -279,7 +279,7 @@
     "expires": "*",
     "versions": "*"
   },
-  "0337739fabae0b66b211b0ec555d4140f3cae540c5b3cd904cbfd264f9ff5bd1": {
+  "04effee60566d637ffeb7d7183903eafac01c40e159b2f5b2bd02094ec0c024a": {
     "allowed": true,
     "expires": "*",
     "versions": "*"
@@ -785,6 +785,11 @@
     "versions" : "*"
   },
   "54712426732df7b37f08141892065d74fa1ef4522d3a49dc2b2c307351953d0e": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+   "9e61f89803653d0f1e4af83a76b9cf5f8f251682f2a46bbca5d7c69ea50bc745": {
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
