@@ -709,12 +709,82 @@
     "expires" : "*",
     "versions" : "*"
   },
-   "d59f15cd400e64b2728abd03915c4a837bba0bdd52ea4b740523d524b49c0f66": {
+  "d59f15cd400e64b2728abd03915c4a837bba0bdd52ea4b740523d524b49c0f66": {
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
-   },
-   "6ff98d2c3ad9d3365887c1398f40b80621edea063cbfe53ad862b3e6c708b5e9": {
+  },
+  "6ff98d2c3ad9d3365887c1398f40b80621edea063cbfe53ad862b3e6c708b5e9": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "82fa6e7323feb63bc47e4765b9555acc3fc4d4fa4193b8c6bf1aa7e546ad704d": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "22c846a10c4d8a4b6f76786e896020b3432bb2c49a583ee883b8379e392241a5": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "6202a726c4a0b50c3d722280b076eb1f07e6297b9d844da8b7b4e93b558125b6": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "745d3e6501eb392f3a81502d8daac18f05698a977bc075f8ffafd16d5a293f4d": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "60ab931821c7ea78f503ae4f151dd00936d360a7a07b5119d56a6f21d5ee7d14": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "3a5ebc9c28f58198c75b8f822a9ff140fd117ba58f5429e232eba58caf27e0fe": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "3e37ef62f3609dd47a8cc6c6522451d4e3aff95e5a9e1af0ec4ddd4f822635a3": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "33546c403aef52680dd791a09487b29951d69029940e3381a54c48a0c308ce2d": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "816994d927edcbf425de012dc03ff3950894ae9d58d8ebf25108ff4e01989a55": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "fd52e58f17722896df798fa5569aa014e4eb57850b3096bef3c9e17aee97f4d7": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "fcf69a966feaa62d5eef200308f085f1cd09fde1220535490c10ec3f87d977ea": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "36f427ee10e8e8e4fc6e220fa101f0e702899cc94c9459e0b842ab1c99822006": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "99df0566eddf8beb3078564a92c7e6b1024cff2baff77fb651e279cf18982778": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "54712426732df7b37f08141892065d74fa1ef4522d3a49dc2b2c307351953d0e": {
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
