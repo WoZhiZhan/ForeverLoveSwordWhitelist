@@ -49,7 +49,7 @@
     "expires": "*",
     "versions": "*"
   },
-  "a6a09fb4454965c79623b86db1181034ec1735d5250ec7cad7195808db9ddd5a": {
+  "d55fd761839dcb84f9246e89a7a6dfaa2daa8656c1d2435463395713bab16c10": {
     "allowed": true,
     "expires": "*",
     "versions": "*"
@@ -894,7 +894,7 @@
     "expires" : "*",
     "versions" : "*"
   },
-   "9c0694a805ef4d2897dee97fd160e722d9e5f7ced3e21524e34edad1c232aaea": {
+  "9c0694a805ef4d2897dee97fd160e722d9e5f7ced3e21524e34edad1c232aaea": {
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
