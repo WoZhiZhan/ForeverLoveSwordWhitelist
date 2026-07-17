@@ -908,5 +908,25 @@
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
+  },
+  "22d1673407f5eb243e893b4f1d961bfb0d99f28bc209b5bfc9c8fcab6b319d81": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "adc59f517a7f0d34765ef14e5faa00f685a7401d45e32f84f36bb8691d93f7e2": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "b62c4ba37773135f45223f3125b541cdb34d8b1c7161362344da1085324f221c": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "cffa09f1ad88e937effd5041b53c0032914fc01c7bc9899da795a61a1e292815": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
   }
 }
