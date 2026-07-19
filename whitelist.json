@@ -958,5 +958,15 @@
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
+  },
+  "28d42f8fb2fbad46fe6f52cc8554c837cbb4d7237a4c0a8de7cb08e3dc43b330": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "3c43ff3debb879d71b79ff017f821b998d81a19adac143c7b812020433c77bc4": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
   }
 }
