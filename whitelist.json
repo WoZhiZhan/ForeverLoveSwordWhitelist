@@ -1053,5 +1053,15 @@
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
+  },
+  "f66756bd966e4bd9ff579362230bea3e13430227a1cb655bc8b5d0777af1f531": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "089b9ae360f7cc4c8cbaa5ea84d19c037b8dba0c98255437c285dc98783c3606": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
   }
 }
