@@ -704,7 +704,7 @@
     "expires" : "*",
     "versions" : "*"
   },
-  "272b5604d53b0fe656760d80e355b75a214bc2e856806c187b0dc2ecd33b5881": {
+  "1f6a4071f1dfc4831e34a82d4425ce1ba7b27a0098cca0b5672de92794d62d67": {
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
@@ -1065,6 +1065,26 @@
     "versions" : "*"
   },
   "7bcb9aa92e9182a2a8c7174c562c991c61dfe779fb217cc4e89c27f40df600da": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "2c94b9598b51ddce7fc4682de5ed56ab86773548292f5c7f101dc5e8845c458f": {
+    "allowed": true,
+    "expires": "2026-08-08",
+    "versions": "*"
+  },
+  "8eb15f8f369a5e59647f07f79c73045707ede7bad189a0a036572fc27b5d7449": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "ae1563b06b4945f9a591a8ad482ec1231474bdb46282b38e266581879e412173": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "fa049bb0b04e7e67405879bd58422ce1914a160bba4b433d83c2520d81309f4a": {
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
