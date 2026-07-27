@@ -1088,5 +1088,15 @@
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
+  },
+  "0f2bb92cc0f427e5879194de1ececaf3476abd60f322016bd09cd533f2c4c25b": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "446417d8b00144a123988313646a1ececf947c958efa9e686db3e7cd46bb1fa7": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
   }
 }
