@@ -1004,7 +1004,7 @@
     "expires" : "*",
     "versions" : "*"
   },
-  "24e3ed8092e17aa849fdd8cda4c42d016946035562a14c408c0da67554ed9200": {
+  "b705b0f144ce048ff92a9400674475ffe5a2b269606f4a7e90f1cac77aeac974": {
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
@@ -1095,6 +1095,16 @@
     "versions" : "*"
   },
   "446417d8b00144a123988313646a1ececf947c958efa9e686db3e7cd46bb1fa7": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "1fd677a84642048d5e0e5bd8596ad6c00ec239500d42876d837d47f9c66536e6": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "3db4587e5ea2647ec6a1a096ac8b9b9185817112df65ddff332466b51098ac04": {
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
