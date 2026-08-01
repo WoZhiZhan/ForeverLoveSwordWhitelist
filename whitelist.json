@@ -1193,5 +1193,10 @@
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
+  },
+  "fbae484d8fbafebd70e1c813ef437ba5e43cc2d5eb46f017f814026bcc7391b5": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
   }
 }
