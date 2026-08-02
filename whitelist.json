@@ -1198,5 +1198,30 @@
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
+  },
+  "a68197e6b9ba167ad242b42b110d1a6bd26eef3a8f01e1ab925311d473307eab": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "34d6f6d51311e6485294f63fa93bdeac78e278c9626df17bc4fcae99f142248d": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "590bad0036cf16d677899e956453b5189800168504ccb8594de1cb5993ea6200": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "90d45e7a5fecac3853053b24554d72727765a918cf9e4ffcc581db8b0ccd4dc8": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "f243b5dc8d44f64f60781f8fa8cc69ca103b4a02e6a02e1f7ddedea615f7fa35": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
   }
 }
