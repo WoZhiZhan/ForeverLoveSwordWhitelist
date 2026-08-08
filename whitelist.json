@@ -1263,5 +1263,20 @@
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
+  },
+  "008b545339b5a82da502e7dfcf5b3a7e21d7388c1081f19e830639c2fb9ab633": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "4eb2649a3f29a4d763211147cef3148b8e5ed8a1470ec88ec68061ea92088b3e": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "9099b68abfdabd9ca34617c7afbebbe28a6d26739e54761db188f712bd225b32": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
   }
 }
