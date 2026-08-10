@@ -1278,5 +1278,35 @@
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
+  },
+  "ccf3ea15f7470b6bca02adb72e18df7d2de33a004fecc7f56a5ca9b7cc96f4f5": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "db2b87c6ba523918b05df03c91c3f34c9a19dcfb01935db50713ae22b9eb705a": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "55cc066cfbf197d19bcca6f2e92fd5a5cdb3895c627fc1351c7fdaa52c5230ec": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "a6780dd4e30d88519a1fe0e93bf418725bbb340f15834ddf0c3a761bbcb9a810": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "bc5da134deb50a22a3b51945d5349db1200b401c7824041b4bd2217298be7323": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "ba70f49f9507168a3fa2611c0acc0cad33cd842c4f42d3fdfa17cf8937a6bd96": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
   }
 }
