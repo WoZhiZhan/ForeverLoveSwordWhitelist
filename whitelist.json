@@ -1324,7 +1324,7 @@
     "expires" : "*",
     "versions" : "*"
   },
-  "a6a09fb4454965c79623b86db1181034ec1735d5250ec7cad7195808db9ddd5a": {
+  "a0bb1483cc92e2ba7aa3f8687738222ac59fb5444d16bd5f055bde7d8ca652da": {
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
@@ -1405,6 +1405,31 @@
     "versions" : "*"
   },
   "ca6e1af9c899e37cbe04205a7153e08fa1adc768ed9fafcb7d51d45ecd907cc5": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "0e4cda3a9d0549cb0569e75a7a8d0c64d574d4bd293bc6a0f5b24323d391e2f3": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "69a8b6579aa145aaa3595d8c7e31baf1a2aea2c30357819b8469b234f7a9a421": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "67521a8098875240c4b5395aefe32557679aebaf5f2be06237c6a06560b4bf3e": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "58ae239823570e890b3e3be6a4f695d82933d696aa35316ef9bb2af38a63f2e0": {
+    "allowed" : true,
+    "expires" : "*",
+    "versions" : "*"
+  },
+  "0ff12f384a57e255562b2f1a53b7e67babb6021937c57eb41dc5f74f0a97619f": {
     "allowed" : true,
     "expires" : "*",
     "versions" : "*"
