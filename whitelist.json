@@ -1478,5 +1478,15 @@
     "allowed": true,
     "expires": "*",
     "versions": "*"
+  },
+  "d0515ac3c3b375d23915ac1b3dcc7b70a33a2b02681c2627d307426a0f4c2188": {
+    "allowed": true,
+    "expires": "*",
+    "versions": "*"
+  },
+  "4ae79b0e14aacaadd828c66aee5b7971db09f779796db5ed4fe9618cc59a206d": {
+    "allowed": true,
+    "expires": "*",
+    "versions": "*"
   }
 }
