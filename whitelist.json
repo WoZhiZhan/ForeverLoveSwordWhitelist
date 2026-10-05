@@ -269,11 +269,6 @@
     "expires": "*",
     "versions": "*"
   },
-  "1e9c56c80332feb101af41b25cae55f82a7e93a4ce549d807918deb4f2094e98": {
-    "allowed": true,
-    "expires": "*",
-    "versions": "*"
-  },
   "52723fd33f98535f097302ce200bed1b160b429ee98c4974314ea3f2406b6ce1": {
     "allowed": true,
     "expires": "*",
