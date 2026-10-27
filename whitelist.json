@@ -34,11 +34,6 @@
     "expires": "*",
     "versions": "*"
   },
-  "930002436f48b2619002da652880a572c893bff84f91a6007577f38e14abbe92": {
-    "allowed": true,
-    "expires": "*",
-    "versions": "*"
-  },
   "18757da80be919b9e6b33956aa43c29428ca1528c8540ceb1b57143c605a176b": {
     "allowed": true,
     "expires": "*",
@@ -1505,6 +1500,21 @@
     "versions": "*"
   },
   "7ed4d21600f800d2a1399ad01596c498243527b3395688315508022428c935f8": {
+    "allowed": true,
+    "expires": "*",
+    "versions": "*"
+  },
+  "1e9c56c80332feb101af41b25cae55f82a7e93a4ce549d807918deb4f2094e98": {
+    "allowed": true,
+    "expires": "*",
+    "versions": "*"
+  },
+  "30e46bcaf3f5f18c67cb3a2677c824b611db27312e9a148dbe4f55a09e5003f7": {
+    "allowed": true,
+    "expires": "*",
+    "versions": "*"
+  },
+  "451cc2866b989467620b3cae8b9d389a0fdfba33f33673e47061c1b76ebddb57": {
     "allowed": true,
     "expires": "*",
     "versions": "*"
